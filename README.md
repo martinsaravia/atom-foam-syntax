@@ -1,5 +1,3 @@
 # foam-syntax theme
 
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+This is the first idea of an OpenFOAM systax theme for ATOM. I''ll be updating it not very often. Please contribute!
